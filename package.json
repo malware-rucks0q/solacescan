@@ -1,0 +1,22 @@
+{
+  "__file": "package.json",
+  "name": "solacescan",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/wallet-sdk": "latest",
+    "viem": "latest",
+    "axios": "latest",
+    "web3": "latest",
+    "ethers": "latest",
+
+    "base-node": "github:base/node",
+    "coinbase-wallet-sdk": "github:coinbase/wallet-sdk",
+    "coinbase-agentkit": "github:coinbase/agentkit",
+    "base-docs": "github:base/docs",
+    "base-web": "github:base/web",
+    "coinbase-x402": "github:coinbase/x402"
+  }
+}
